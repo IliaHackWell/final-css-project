@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    color: none;
+    background-color: none;
+    cursor: pointer;
+    font-family: 'Manrope', sans-serif;;
+    border: none;
+}
+
+body{
+    background-image: url('Home\ Page.png');
+}
+
+.start h1{
+    color: white;
+    margin-top: -39px;
+    margin-left: 6px;
+}
+
+.start a{
+    color: grey;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.start a img{
+    margin-left: -40px;
+    margin-top: 15px;
+}
+
+.center {
+    cursor: pointer;
+    font-size: 22px;
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 80px;
+    margin-top: 25px;
+}
+
+.center a{
+    color: grey;
+}
+
+.center a:first-child{
+    color: white;
+}
+
+.end h2{
+    display: inline-flex;
+    padding: 12px 24px;
+    align-items: flex-start;
+    gap: 10px;
+    color: white;
+    font-size: 20px; 
+}
+
+.end{
+    margin-top: 20px;  
+}
+
+.end button{
+    background-color: rgba(98, 230, 190, 0.10);
+    padding: 9px 27px;
+    border-radius: 9px;
+    color: #62E6BE;
+    font-size: 20px;
+}
+
+.xazi{
+    background-color: grey;
+    width: 1920px;
+    height: 1px;
+    margin-top: 35px;
+}
+
+.tetrixazi{
+    background-color: white;
+    width: 53px;
+    height: 1px;
+    margin-left: 25.6%;
+}
+
+.h1p h1{
+    color: white;
+    
+}
+
+.h1p span{
+    color: #62E6BE;
+}
+
+.h1p p{
+    color: grey;
+}
+
+.surati img:first-child{
+   margin-left: 67%;
+   margin-top: -90px;
+    
+}
+
+.surati img{
+    margin-left: 68%;
+}
+
+.h1p{
+    margin-left: 80px;
+    margin-top: 15%;
+}
+
+.gilakebi button:first-child {
+    background-color: #62E6BE;
+    color: #100F15;
+    padding: 9px 27px;
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+.gilakebi button{
+    padding: 9px 27px;
+    border-radius: 8px;
+    font-size: 18px;
+    background-color: #19172a;
+    border: 2px solid rgba(109, 98, 230, 0.20);
+    margin: 13px;
+    color: white;
+}
+
+.gilakebi{
+    margin-left: 65px;
+    margin-top: -13%;
+}
+
+.container2{
+    width: 1920px;
+    height: 260px;
+    background: rgba(109, 98, 230, 0.05);
+    margin-top: 12%;
+}
+
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-left: -21.5%;
+    color: grey;
+}
+
+.card1 img,.card2 img,.card3 img,.card4 img,.card5 img,.card6 img{
+    border-radius: 8px;
+    border: 2px solid rgba(109, 98, 230, 0.20);
+    margin: 15px;
+    padding: 20px 60px;
+}
+
+.cards p{
+    margin-left: 25%;
+}
+
+.card3 p{
+    margin-left: 30px;
+}
+
+.card4 p{
+    margin-left: 75px;
+}
+
+
+
